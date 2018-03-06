@@ -1,0 +1,21 @@
+{
+  "name": "turfjs",
+  "version": "1.0.0",
+  "description": "learning turfjs",
+  "main": "index.js",
+  "dependencies": {
+    "request-promise-native": "^1.0.5",
+    "turf": "^3.0.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "turfjs",
+    "npm",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC"
+}
