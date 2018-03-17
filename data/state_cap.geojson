@@ -1,0 +1,1805 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-03-17T10:42:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1834119",
+        "AND_a_i": "10004605",
+        "ele": "0",
+        "is_capital": "state",
+        "is_in:archipelago": "Laccadive Islands",
+        "is_in:country": "India",
+        "is_in:country_code": "IN",
+        "is_in:sea": "Laccadive Sea",
+        "is_in:state": "Lakshadweep",
+        "name": "Kavaratti Island",
+        "name:zh": "卡瓦拉蒂岛",
+        "place": "island",
+        "population": "10113",
+        "type": "multipolygon",
+        "wikidata": "Q271287",
+        "wikipedia": "en:Kavaratti"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.6359549,
+              10.5686738
+            ],
+            [
+              72.635581,
+              10.5678205
+            ],
+            [
+              72.63498,
+              10.56659
+            ],
+            [
+              72.6346283,
+              10.5658698
+            ],
+            [
+              72.63446,
+              10.56551
+            ],
+            [
+              72.63426,
+              10.56517
+            ],
+            [
+              72.63416,
+              10.56492
+            ],
+            [
+              72.63343,
+              10.56352
+            ],
+            [
+              72.63268,
+              10.56224
+            ],
+            [
+              72.63221,
+              10.56165
+            ],
+            [
+              72.63202,
+              10.56132
+            ],
+            [
+              72.6317,
+              10.56086
+            ],
+            [
+              72.63151,
+              10.56054
+            ],
+            [
+              72.63099,
+              10.55979
+            ],
+            [
+              72.63083,
+              10.55945
+            ],
+            [
+              72.63042,
+              10.55881
+            ],
+            [
+              72.63033,
+              10.5586
+            ],
+            [
+              72.63018,
+              10.55835
+            ],
+            [
+              72.62853,
+              10.55614
+            ],
+            [
+              72.62776,
+              10.55504
+            ],
+            [
+              72.6256703,
+              10.5518907
+            ],
+            [
+              72.625352,
+              10.5514111
+            ],
+            [
+              72.6249182,
+              10.5503699
+            ],
+            [
+              72.6245695,
+              10.5495736
+            ],
+            [
+              72.624231,
+              10.548971
+            ],
+            [
+              72.62396,
+              10.54854
+            ],
+            [
+              72.62366,
+              10.54807
+            ],
+            [
+              72.62298,
+              10.54721
+            ],
+            [
+              72.62235,
+              10.54668
+            ],
+            [
+              72.62193,
+              10.54643
+            ],
+            [
+              72.6218,
+              10.54641
+            ],
+            [
+              72.62126,
+              10.54655
+            ],
+            [
+              72.62119,
+              10.54655
+            ],
+            [
+              72.62103,
+              10.5465
+            ],
+            [
+              72.62093,
+              10.5464
+            ],
+            [
+              72.6199,
+              10.54602
+            ],
+            [
+              72.61943,
+              10.54577
+            ],
+            [
+              72.61886,
+              10.54543
+            ],
+            [
+              72.61805,
+              10.54533
+            ],
+            [
+              72.61768,
+              10.54518
+            ],
+            [
+              72.6173,
+              10.54496
+            ],
+            [
+              72.61699,
+              10.5446
+            ],
+            [
+              72.61606,
+              10.54329
+            ],
+            [
+              72.61575,
+              10.54299
+            ],
+            [
+              72.61558,
+              10.54276
+            ],
+            [
+              72.61549,
+              10.54247
+            ],
+            [
+              72.61545,
+              10.54223
+            ],
+            [
+              72.61563,
+              10.54186
+            ],
+            [
+              72.61592,
+              10.54116
+            ],
+            [
+              72.61601,
+              10.54103
+            ],
+            [
+              72.61619,
+              10.54094
+            ],
+            [
+              72.61709,
+              10.54073
+            ],
+            [
+              72.61813,
+              10.54129
+            ],
+            [
+              72.61851,
+              10.54153
+            ],
+            [
+              72.61951,
+              10.54227
+            ],
+            [
+              72.62022,
+              10.54302
+            ],
+            [
+              72.62051,
+              10.54337
+            ],
+            [
+              72.62075,
+              10.5436
+            ],
+            [
+              72.62102,
+              10.54399
+            ],
+            [
+              72.6214,
+              10.54434
+            ],
+            [
+              72.62159,
+              10.54463
+            ],
+            [
+              72.62179,
+              10.54485
+            ],
+            [
+              72.62192,
+              10.54506
+            ],
+            [
+              72.62195,
+              10.54528
+            ],
+            [
+              72.62204,
+              10.54543
+            ],
+            [
+              72.62235,
+              10.54572
+            ],
+            [
+              72.62239,
+              10.54585
+            ],
+            [
+              72.62254,
+              10.5461
+            ],
+            [
+              72.62273,
+              10.54635
+            ],
+            [
+              72.62295,
+              10.5465
+            ],
+            [
+              72.62392,
+              10.54738
+            ],
+            [
+              72.62493,
+              10.5482
+            ],
+            [
+              72.62532,
+              10.54848
+            ],
+            [
+              72.62561,
+              10.54875
+            ],
+            [
+              72.62859,
+              10.55098
+            ],
+            [
+              72.62889,
+              10.55125
+            ],
+            [
+              72.62971,
+              10.55179
+            ],
+            [
+              72.63064,
+              10.55256
+            ],
+            [
+              72.63135,
+              10.55308
+            ],
+            [
+              72.6323,
+              10.55384
+            ],
+            [
+              72.6324751,
+              10.5539968
+            ],
+            [
+              72.63298,
+              10.55446
+            ],
+            [
+              72.6348,
+              10.55566
+            ],
+            [
+              72.6354,
+              10.55598
+            ],
+            [
+              72.63587,
+              10.5563
+            ],
+            [
+              72.6362,
+              10.55644
+            ],
+            [
+              72.6365,
+              10.55651
+            ],
+            [
+              72.63686,
+              10.55663
+            ],
+            [
+              72.63742,
+              10.55693
+            ],
+            [
+              72.63806,
+              10.5572
+            ],
+            [
+              72.63867,
+              10.55749
+            ],
+            [
+              72.63974,
+              10.55794
+            ],
+            [
+              72.63989,
+              10.55804
+            ],
+            [
+              72.64047,
+              10.55831
+            ],
+            [
+              72.64181,
+              10.55877
+            ],
+            [
+              72.64321,
+              10.55929
+            ],
+            [
+              72.64368,
+              10.55943
+            ],
+            [
+              72.64461,
+              10.55984
+            ],
+            [
+              72.64536,
+              10.5602
+            ],
+            [
+              72.64598,
+              10.56046
+            ],
+            [
+              72.64707,
+              10.56137
+            ],
+            [
+              72.64744,
+              10.56161
+            ],
+            [
+              72.64845,
+              10.56247
+            ],
+            [
+              72.64853,
+              10.56262
+            ],
+            [
+              72.64873,
+              10.56322
+            ],
+            [
+              72.64888,
+              10.56384
+            ],
+            [
+              72.64894,
+              10.56428
+            ],
+            [
+              72.64904,
+              10.56458
+            ],
+            [
+              72.64938,
+              10.56585
+            ],
+            [
+              72.64959,
+              10.56704
+            ],
+            [
+              72.64972,
+              10.5675
+            ],
+            [
+              72.64974,
+              10.56796
+            ],
+            [
+              72.64968,
+              10.56888
+            ],
+            [
+              72.64954,
+              10.56987
+            ],
+            [
+              72.6494,
+              10.57058
+            ],
+            [
+              72.64921,
+              10.57138
+            ],
+            [
+              72.64898,
+              10.5719
+            ],
+            [
+              72.64879,
+              10.57243
+            ],
+            [
+              72.64837,
+              10.5734
+            ],
+            [
+              72.64742,
+              10.57475
+            ],
+            [
+              72.64639,
+              10.5761
+            ],
+            [
+              72.64601,
+              10.57652
+            ],
+            [
+              72.64579,
+              10.57667
+            ],
+            [
+              72.64568,
+              10.57669
+            ],
+            [
+              72.64545,
+              10.57667
+            ],
+            [
+              72.64522,
+              10.57669
+            ],
+            [
+              72.64442,
+              10.5769
+            ],
+            [
+              72.64398,
+              10.57694
+            ],
+            [
+              72.6438546,
+              10.5769365
+            ],
+            [
+              72.6435103,
+              10.5769264
+            ],
+            [
+              72.643075,
+              10.5770481
+            ],
+            [
+              72.6428582,
+              10.5771857
+            ],
+            [
+              72.6426861,
+              10.5771599
+            ],
+            [
+              72.6425165,
+              10.5770742
+            ],
+            [
+              72.64228,
+              10.57706
+            ],
+            [
+              72.6413116,
+              10.5773338
+            ],
+            [
+              72.6409632,
+              10.5772793
+            ],
+            [
+              72.6406116,
+              10.5773714
+            ],
+            [
+              72.6403487,
+              10.5774414
+            ],
+            [
+              72.6400995,
+              10.5774744
+            ],
+            [
+              72.6400195,
+              10.5773744
+            ],
+            [
+              72.6400395,
+              10.5772644
+            ],
+            [
+              72.6400195,
+              10.5771944
+            ],
+            [
+              72.6395109,
+              10.576524
+            ],
+            [
+              72.6391225,
+              10.5761312
+            ],
+            [
+              72.6389434,
+              10.575728
+            ],
+            [
+              72.639032,
+              10.5755404
+            ],
+            [
+              72.6389214,
+              10.5752798
+            ],
+            [
+              72.6385224,
+              10.5742537
+            ],
+            [
+              72.63812,
+              10.5734
+            ],
+            [
+              72.6378304,
+              10.5730567
+            ],
+            [
+              72.63774,
+              10.57262
+            ],
+            [
+              72.6372022,
+              10.5717675
+            ],
+            [
+              72.6368805,
+              10.5712982
+            ],
+            [
+              72.6366948,
+              10.5711386
+            ],
+            [
+              72.6364106,
+              10.5709645
+            ],
+            [
+              72.6363442,
+              10.5706389
+            ],
+            [
+              72.6363349,
+              10.569798
+            ],
+            [
+              72.6359549,
+              10.5686738
+            ]
+          ]
+        ]
+      },
+      "id": "relation/1834119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/16173235",
+        "capital": "4",
+        "capital_1": "4",
+        "ele": "8",
+        "is_capital": "state",
+        "is_in:iso_3166_2": "IN-MH",
+        "name": "Mumbai",
+        "name:ar": "مومباي",
+        "name:bn": "মুম্বই",
+        "name:cs": "Bombaj",
+        "name:de": "Mumbai",
+        "name:en": "Mumbai",
+        "name:eo": "Mumbajo",
+        "name:es": "Bombay",
+        "name:fr": "Bombay",
+        "name:gu": "મુંબઈ",
+        "name:hi": "मुंबई",
+        "name:ia": "Mumbai",
+        "name:io": "Mumbai",
+        "name:ja": "ムンバイ",
+        "name:jbo": ".mumbais.",
+        "name:kn": "ಮುಂಬೈ",
+        "name:lt": "Mumbajus",
+        "name:ml": "മുംബൈ",
+        "name:mr": "मुंबई",
+        "name:pl": "Mumbaj",
+        "name:ru": "Мумбаи",
+        "name:sk": "Bombaj",
+        "name:sr": "Мумбај",
+        "name:ta": "மும்பை",
+        "name:te": "ముంబై",
+        "name:uk": "Мумбаї",
+        "name:zh": "孟买",
+        "old_name": "Bombay",
+        "old_name:eo": "Bombajo",
+        "old_name:pl": "Bombaj",
+        "place": "city",
+        "place:cca": "a1",
+        "population": "12442373",
+        "rank": "0",
+        "source": "https://en.wikipedia.org/wiki/Mumbai",
+        "source:population": "2011 Census of India",
+        "wikidata": "Q1156",
+        "wikipedia": "en:Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8352382,
+          18.9387544
+        ]
+      },
+      "id": "node/16173235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/58568637",
+        "alt_name:ar": "كلكيت;غلغيت;غيلغيت;غلغت",
+        "capital": "4",
+        "is_capital": "state",
+        "is_in": "Pakistan, Northern Areas, Gilgit District",
+        "is_in:continent": "Asia",
+        "is_in:country": "Pakistan",
+        "is_in:county": "Gilgit District",
+        "is_in:state": "Northern Areas",
+        "name": "گلگت",
+        "name:ar": "كلكت",
+        "name:bsk": "Geelt",
+        "name:en": "Gilgit",
+        "name:ja": "ギルギット",
+        "name:pl": "Gilgit",
+        "name:ru": "Гилгит",
+        "name:uk": "Гілгіт",
+        "name:ur": "گلگت",
+        "name:zh": "吉爾吉特",
+        "old_name": "Sargin",
+        "place": "city",
+        "wikidata": "Q609024",
+        "wikipedia": "en:Gilgit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.314044,
+          35.9208102
+        ]
+      },
+      "id": "node/58568637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/245581432",
+        "alt_name": "Trivandrum",
+        "capital": "4",
+        "is_capital": "state",
+        "name": "Thiruvananthapuram",
+        "name:en": "Thiruvananthapuram",
+        "name:hi": "तिरुवनन्तपुरम",
+        "name:ja": "ティルヴァナンタプラム",
+        "name:kn": "ತಿರುವನಂತಪುರಂ",
+        "name:lt": "Thiruvananthapuramas",
+        "name:ml": "തിരുവനന്തപുരം",
+        "name:ru": "Тируванантапурам",
+        "name:ta": "திருவனந்தபுரம",
+        "name:uk": "Тируванантапурам",
+        "name:zh": "特里凡得琅",
+        "place": "city",
+        "place:cca": "b2",
+        "population": "744983",
+        "postal_code": "695001",
+        "wikidata": "Q167715",
+        "wikipedia": "en:Thiruvananthapuram"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9570481,
+          8.5058909
+        ]
+      },
+      "id": "node/245581432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/245640543",
+        "admin_level": "4",
+        "capital": "4",
+        "ele": "505",
+        "gns:dsg": "ADM2",
+        "gns:uni": "-2912533",
+        "is_capital": "state",
+        "is_in:iso_3166_2": "IN-TG",
+        "name": "Hyderabad",
+        "name:ar": "حيدر آباد",
+        "name:cs": "Hajdarábád",
+        "name:hi": "हैदराबाद",
+        "name:ja": "ハイデラバード",
+        "name:kn": "ಹೈದರಾಬಾದ್‌",
+        "name:ru": "Хайдарабад",
+        "name:ta": "ஹைதராபாத்",
+        "name:te": "హైదరాబాదు",
+        "name:zh": "海得拉巴",
+        "place": "city",
+        "place:cca": "a1",
+        "population": "6809970",
+        "population:date": "2011",
+        "source": "GNS",
+        "wikidata": "Q1361",
+        "wikipedia": "en:Hyderabad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4747305,
+          17.3616227
+        ]
+      },
+      "id": "node/245640543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/245707150",
+        "alt_name:eo": "Kalkato",
+        "alt_name:pl": "Kalkuta",
+        "capital": "4",
+        "ele": "6",
+        "is_capital": "state",
+        "is_in:continent": "Asia",
+        "is_in:country": "India",
+        "is_in:country_code": "IN",
+        "is_in:iso_3166_2": "IN-WB",
+        "is_in:state": "West Bengal",
+        "name": "Kolkata",
+        "name:bn": "কলকাতা",
+        "name:cs": "Kalkata",
+        "name:de": "Kalkutta",
+        "name:en": "Kolkata",
+        "name:eo": "Kolkato",
+        "name:es": "Calcuta",
+        "name:fr": "Kolkata",
+        "name:hi": "कोलकाता",
+        "name:it": "Calcutta",
+        "name:ja": "コルカタ",
+        "name:kn": "ಕೊಲ್ಕತ್ತ",
+        "name:pl": "Kolkata",
+        "name:ru": "Калькутта",
+        "name:ta": "கொல்கத்தா",
+        "name:te": "కోల్‌కత",
+        "name:uk": "Колката",
+        "name:zh": "加尔各答",
+        "old_name": "Calcutta",
+        "place": "city",
+        "place:cca": "a1",
+        "population": "4486679",
+        "wikidata": "Q1348",
+        "wikipedia": "en:Kolkata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3476023,
+          22.5677459
+        ]
+      },
+      "id": "node/245707150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/245712627",
+        "capital": "4",
+        "ele": "527",
+        "is_capital": "state",
+        "is_in:continent": "Asia",
+        "is_in:country": "India",
+        "is_in:country_code": "IN",
+        "is_in:county": "Bhopal",
+        "is_in:iso_3166_2": "IN-MP",
+        "is_in:state": "Madhya Pradesh",
+        "name": "Bhopal",
+        "name:cs": "Bhópál",
+        "name:en": "Bhopal",
+        "name:hi": "भोपाल",
+        "name:ja": "ボーパール",
+        "name:kn": "ಭೋಪಾಲ್",
+        "name:ru": "Бхопал",
+        "name:ta": "போபால்",
+        "name:uk": "Бхопал",
+        "name:zh": "博帕尔",
+        "place": "city",
+        "place:cca": "b1",
+        "population": "1800000",
+        "population:date": "2011",
+        "postal_code": "462001",
+        "source:population": "Census of India 2011",
+        "wikidata": "Q80989",
+        "wikipedia": "en:Bhopal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3962718,
+          23.2530923
+        ]
+      },
+      "id": "node/245712627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/245716231",
+        "capital": "4",
+        "is_capital": "state",
+        "is_in:continent": "Asia",
+        "is_in:country": "India",
+        "is_in:country_code": "IN",
+        "name": "Aizawl",
+        "name:bn": "আইজল",
+        "name:de": "Aizawl",
+        "name:en": "Aizawl",
+        "name:es": "Aizawl",
+        "name:fr": "Aizawl",
+        "name:hi": "आइज़ोल",
+        "name:ja": "アイザウル",
+        "name:kn": "ಐಜ್ವಾಲ್",
+        "name:ta": "அய்சால்",
+        "place": "city",
+        "population": "291822",
+        "postal_code": "796190",
+        "wikidata": "Q192379",
+        "wikipedia": "en:Aizawl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.7209297,
+          23.7414092
+        ]
+      },
+      "id": "node/245716231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/245717374",
+        "capital": "4",
+        "is_capital": "state",
+        "is_in:continent": "Asia",
+        "is_in:country": "India",
+        "is_in:country_code": "IN",
+        "name": "Agartala",
+        "name:de": "Agartala",
+        "name:en": "Agartala",
+        "name:es": "Agartala",
+        "name:fr": "Agartala",
+        "name:ja": "アガルタラ",
+        "name:kn": "ಅಗರತಾಳ",
+        "name:ta": "அகர்தலா",
+        "place": "city",
+        "population": "400000",
+        "postal_code": "799001",
+        "source": "AND",
+        "wikidata": "Q170454"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2823821,
+          23.8312377
+        ]
+      },
+      "id": "node/245717374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/245735780",
+        "capital": "4",
+        "is_capital": "state",
+        "is_in:continent": "Asia",
+        "is_in:country": "India",
+        "is_in:country_code": "IN",
+        "name": "Shillong",
+        "name:bn": "শিলং",
+        "name:cs": "Šillong",
+        "name:de": "Shillong",
+        "name:en": "Shillong",
+        "name:es": "Shillong",
+        "name:fr": "Shillong",
+        "name:hi": "शिलांग",
+        "name:ja": "シロン",
+        "name:kn": "ಶಿಲ್ಲಾಂಗ್",
+        "name:ta": "ஷில்லாங்",
+        "place": "city",
+        "population": "260000",
+        "postal_code": "793001",
+        "wikidata": "Q207752",
+        "wikipedia": "en:Shillong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8828027,
+          25.5760154
+        ]
+      },
+      "id": "node/245735780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/245753718",
+        "capital": "4",
+        "description": "Lucknow is the capital city of the Indian state of Uttar Pradesh, India. \nIt is also nicknamed 'The City of Nawabs'.",
+        "is_capital": "state",
+        "is_in:continent": "Asia",
+        "is_in:country": "India",
+        "is_in:state": "Uttar Pradesh",
+        "name": "Lucknow",
+        "name:cs": "Lakhnaú",
+        "name:en": "Lucknow",
+        "name:hi": "लखनऊ",
+        "name:ja": "ラクナウ",
+        "name:kn": "ಲಖ್ನೌ",
+        "name:ru": "Лакхнау",
+        "name:ta": "இலக்னோ",
+        "name:uk": "Лакнау",
+        "name:ur": "لکھنو",
+        "name:zh": "勒克瑙",
+        "place": "city",
+        "place:cca": "a",
+        "population": "4588455",
+        "wikidata": "Q47916",
+        "wikipedia": "en:Lucknow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9346001,
+          26.8381
+        ]
+      },
+      "id": "node/245753718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/245756095",
+        "capital": "4",
+        "int_name": "Itanagar",
+        "is_capital": "state",
+        "is_in": "Arunachal Pradesh, India",
+        "is_in:continent": "Asia",
+        "is_in:country": "India",
+        "is_in:country_code": "IN",
+        "is_in:state": "Arunchal Pradesh",
+        "name": "Itanagar",
+        "name:cs": "Itánagar",
+        "name:en": "Itanagar",
+        "name:hi": "ईटानगर",
+        "name:ja": "イーターナガル",
+        "name:ru": "Итанагар",
+        "name:ta": "இட்டாநகர்",
+        "name:uk": "Ітанагар",
+        "name:zh": "伊塔那噶",
+        "place": "town",
+        "population": "5000",
+        "postal_code": "791111",
+        "source": "AND",
+        "wikidata": "Q41128",
+        "wikipedia": "en:Itanagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6292125,
+          27.1018415
+        ]
+      },
+      "id": "node/245756095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/273658993",
+        "capital": "4",
+        "description": "http://www.kashmirtourbazaar.com/kashmir-honeymoon-packages/",
+        "is_capital": "state",
+        "is_in": "Jammu and Kashmir",
+        "is_in:continent": "Asia",
+        "name": "Srinagar",
+        "name:cs": "Šrínagar",
+        "name:en": "Srinagar",
+        "name:hi": "श्रीनगर",
+        "name:ja": "シュリーナガル",
+        "name:kn": "ಶ್ರೀನಗರ",
+        "name:ko": "스리나가르",
+        "name:lt": "Šrinagaras",
+        "name:pl": "Śrinagar",
+        "name:ru": "Сринагар",
+        "name:ta": "சிறிநகர்",
+        "name:uk": "Срінаґар",
+        "name:ur": "سرینگر",
+        "name:zh": "斯利那加",
+        "place": "city",
+        "place:cca": "b2",
+        "wikidata": "Q170115",
+        "wikipedia": "en:Srinagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8204443,
+          34.0747444
+        ]
+      },
+      "id": "node/273658993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/299531301",
+        "alt_name": "Dehra Dun",
+        "capital": "4",
+        "is_capital": "state",
+        "is_in:continent": "Asia",
+        "is_in:country": "India",
+        "is_in:country_code": "IN",
+        "name": "Dehradun",
+        "name:cs": "Déhrádún",
+        "name:de": "Dehradun",
+        "name:en": "Dehradun",
+        "name:es": "Dehradun",
+        "name:fr": "Dehradun",
+        "name:hi": "देहरादून",
+        "name:ja": "デヘラードゥーン",
+        "name:kn": "ದೆಹರದೂನ್",
+        "name:ru": "Дехрадун",
+        "name:ta": "தேராதூன்",
+        "place": "city",
+        "place:cca": "b2",
+        "population": "447808",
+        "postal_code": "248001",
+        "source": "AND",
+        "wikidata": "Q199528",
+        "wikipedia": "en:Dehradun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0436813,
+          30.3255646
+        ]
+      },
+      "id": "node/299531301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/310090137",
+        "alt_name": "Tarin Kowt",
+        "is_capital": "state",
+        "is_in:country": "Afghanistan",
+        "is_in:state": "Orūzgān Province",
+        "name": "ترين كوت",
+        "name:ar": "ترين كوت",
+        "name:de": "Tarin Kut",
+        "name:en": "Tarinkot",
+        "name:fa": "ترین‌کوت",
+        "name:ja": "タリーン・コート",
+        "name:ps": "ترين کوټ‎",
+        "name:ru": "Таринкот",
+        "name:tr": "Tarin Kot",
+        "name:uk": "Тарінкот",
+        "name:ur": "ترین کوٹ",
+        "place": "city",
+        "population": "10000",
+        "wikidata": "Q989293",
+        "wikipedia": "en:Tarinkot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.8687939,
+          32.6218133
+        ]
+      },
+      "id": "node/310090137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/312368833",
+        "ele": "773",
+        "int_name": "Lashkar Gah",
+        "is_capital": "state",
+        "is_in:country": "Afghanistan",
+        "is_in:state": "Helmand Province",
+        "name": "لښکرګاه",
+        "name:de": "Laschkar Gah",
+        "name:en": "Lashkar Gah",
+        "name:fa": "لشکرگاه",
+        "name:ja": "ラシュカルガー",
+        "name:ps": "لښگرگاه",
+        "name:ru": "Лашкаргах",
+        "name:uk": "Лашкар Гах",
+        "old_name": "Bost",
+        "place": "city",
+        "population": "45846",
+        "wikidata": "Q476800",
+        "wikipedia": "en:Lashkar Gah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.3613036,
+          31.5851546
+        ]
+      },
+      "id": "node/312368833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/312573218",
+        "alt_name": "Chakhcheran",
+        "capital": "4",
+        "ele": "2280",
+        "is_capital": "state",
+        "is_in:country": "Afghanistan",
+        "is_in:state": "Ghor Province",
+        "name": "چغچران",
+        "name:de": "Tschaghtscharan",
+        "name:en": "Chaghcharan",
+        "name:fa": "چغچران",
+        "name:ja": "チャグチャラーン",
+        "name:ps": "آهنګران",
+        "name:ru": "Чагчаран",
+        "name:tr": "Çagçaran",
+        "name:uk": "Чагчаран",
+        "old_name": "Āhangarān;آهنګران;آهنگران",
+        "place": "city",
+        "population": "15000",
+        "source": "wikipedia",
+        "wikidata": "Q958621",
+        "wikipedia": "en:Chaghcharan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.2554797,
+          34.5189635
+        ]
+      },
+      "id": "node/312573218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/312593138",
+        "alt_name": "Khowst",
+        "is_capital": "state",
+        "name": "خوست",
+        "name:ar": "خوست",
+        "name:de": "Chost",
+        "name:en": "Khost",
+        "name:fa": "خوست",
+        "name:ja": "ホースト",
+        "name:ps": "خوست",
+        "name:ru": "Хост",
+        "name:uk": "Хост",
+        "place": "city",
+        "population": "11987",
+        "source": "wikipedia",
+        "wikidata": "Q386682",
+        "wikipedia": "en:Khost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.9206359,
+          33.3391402
+        ]
+      },
+      "id": "node/312593138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/315734346",
+        "capital": "4",
+        "ele": "431",
+        "is_capital": "state",
+        "is_in:continent": "Asia",
+        "is_in:country": "India",
+        "is_in:country_code": "IN",
+        "is_in:iso_3166_2": "IN-RJ",
+        "is_in:state": "Rajasthan",
+        "name": "Best Dentist in Jaipur",
+        "name:cs": "Džajpur",
+        "name:en": "Jaipur",
+        "name:gu": "જયપુર",
+        "name:hi": "जयपुर",
+        "name:ja": "ジャイプル",
+        "name:kn": "ಜಯಪುರ್",
+        "name:ko": "자이푸르",
+        "name:ru": "Джайпур",
+        "name:ta": "செய்ப்பூர்",
+        "name:uk": "Джайпур",
+        "name:zh": "斋浦尔",
+        "place": "city",
+        "place:cca": "a",
+        "population": "3073400",
+        "postal_code": "302001",
+        "wikidata": "Q66485",
+        "wikipedia": "en:Jaipur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.820349,
+          26.916194
+        ]
+      },
+      "id": "node/315734346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/316417040",
+        "capital": "4",
+        "gns:dsg": "ADM2",
+        "gns:uni": "9276818",
+        "is_capital": "state",
+        "is_in:continent": "Asia",
+        "is_in:country": "India",
+        "is_in:country_code": "IN",
+        "name": "Shimla",
+        "name:ar": "شيمل",
+        "name:bn": "শিমলা",
+        "name:bpy": "শিমলা",
+        "name:cs": "Šimla",
+        "name:de": "Shimla",
+        "name:en": "Shimla",
+        "name:es": "Shimla",
+        "name:fa": "شیملا",
+        "name:fr": "Shimla",
+        "name:gu": "શિમલા",
+        "name:he": "שימלה",
+        "name:hi": "शिमला",
+        "name:ja": "シムラー",
+        "name:kn": "ಶಿಮ್ಲಾ",
+        "name:ko": "심라",
+        "name:me": "शिमला",
+        "name:ml": "ഷിംല",
+        "name:mr": "शिमला",
+        "name:or": "ଶିମଲା",
+        "name:pa": "ਸ਼ਿਮਲਾ",
+        "name:pnb": "شملہ",
+        "name:ru": "Шимла",
+        "name:sa": "शिमला",
+        "name:ta": "சிம்லா",
+        "name:uk": "Шімла",
+        "name:ur": "شملہ",
+        "name:zh": "西姆拉",
+        "old_name": "Simla",
+        "place": "city",
+        "population": "50000",
+        "postal_code": "171001",
+        "source": "GNS",
+        "wikidata": "Q83786",
+        "wikipedia": "en:Shimla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1709729,
+          31.1041526
+        ]
+      },
+      "id": "node/316417040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/342097621",
+        "capital": "4",
+        "ele": "1600",
+        "is_capital": "state",
+        "is_in:iso_3166_2": "IN-SK",
+        "name": "Gangtok",
+        "name:bn": "গংগ্টোক্",
+        "name:bo": "སྒང་ཐོག",
+        "name:cs": "Gangtok",
+        "name:hi": "गान्तोक",
+        "name:ja": "ガントク",
+        "name:kn": "ಗಂಗ್ಟೋಕ್",
+        "name:nl": "Gangtok",
+        "name:ta": "கேங்டாக்",
+        "place": "city",
+        "population": "100000",
+        "postal_code": "737101",
+        "wikidata": "Q186141",
+        "wikipedia": "en:Gangtok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6122673,
+          27.329046
+        ]
+      },
+      "id": "node/342097621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/509907130",
+        "capital": "4",
+        "is_capital": "state",
+        "is_in:continent": "Asia",
+        "is_in:country": "India",
+        "is_in:country_code": "IN",
+        "is_in:state": "Bihar",
+        "name": "Patna",
+        "name:bn": "পাটনা",
+        "name:en": "Patna",
+        "name:hi": "पटना",
+        "name:ja": "パトナ",
+        "name:kn": "ಪಟ್ನಾ",
+        "name:ko": "파트나",
+        "name:ru": "Патна",
+        "name:ta": "பட்னா",
+        "name:uk": "Патна",
+        "name:zh": "巴特那",
+        "place": "city",
+        "place:cca": "b1",
+        "population": "500000",
+        "postal_code": "800001",
+        "wikidata": "Q80484",
+        "wikipedia": "en:Patna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1235252,
+          25.6093239
+        ]
+      },
+      "id": "node/509907130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/566672797",
+        "capital": "4",
+        "is_capital": "state",
+        "name": "Dispur",
+        "name:en": "Dispur",
+        "name:ja": "ディスプル",
+        "name:ru": "Диспур",
+        "name:ta": "திஸ்பூர்",
+        "name:uk": "Діспур",
+        "name:zh_cn": "迪斯浦尔",
+        "place": "town",
+        "population": "5000",
+        "postal_code": "781005",
+        "source": "AND",
+        "wikidata": "Q271911",
+        "wikipedia": "en:Dispur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7910265,
+          26.1409355
+        ]
+      },
+      "id": "node/566672797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/569040820",
+        "capital": "4",
+        "is_capital": "state",
+        "is_in:continent": "Asia",
+        "name": "Imphal",
+        "name:bn": "ইম্ফল",
+        "name:cs": "Imphál",
+        "name:ja": "インパール",
+        "name:kn": "ಇಂಫಾಲ",
+        "name:ta": "இம்பால்",
+        "place": "town",
+        "population": "500000",
+        "postal_code": "795001",
+        "source": "AND",
+        "wikidata": "Q208097"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.9369998,
+          24.8006088
+        ]
+      },
+      "id": "node/569040820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/664161333",
+        "capital": "4",
+        "is_capital": "state",
+        "name": "Raipur",
+        "name:bn": "রায়পুর",
+        "name:cs": "Rájpur",
+        "name:en": "Raipur",
+        "name:hi": "रायपुर",
+        "name:ja": "ライプル",
+        "name:kn": "ರಾಯಪುರ",
+        "name:ru": "Райпур",
+        "name:ta": "ராய்ப்பூர்",
+        "name:te": "రాయపుర",
+        "name:uk": "Райпур",
+        "place": "city",
+        "place:cca": "b1",
+        "population": "100000",
+        "postal_code": "493332",
+        "wikidata": "Q372773",
+        "wikipedia": "en:Raipur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6336833,
+          21.2379468
+        ]
+      },
+      "id": "node/664161333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/780536498",
+        "capital": "4",
+        "ele": "81",
+        "is_capital": "state",
+        "is_in:iso_3166_2": "IN-GJ",
+        "name": "Gandhinagar",
+        "name:cs": "Gándhínagar",
+        "name:gu": "ગાંધીનગર",
+        "name:hi": "गाँधीनगर",
+        "name:ja": "ガンディーナガル",
+        "name:kn": "ಗಾಂಧಿನಗರ",
+        "name:ru": "Гандинагар",
+        "name:sr": "Гандинагар",
+        "name:ta": "காந்திநகர்",
+        "place": "city",
+        "population": "200000",
+        "wikidata": "Q11910",
+        "wikipedia": "en:Gandhinagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6492267,
+          23.2232877
+        ]
+      },
+      "id": "node/780536498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1051669585",
+        "capital": "4",
+        "is_capital": "state",
+        "name": "Bhubaneswar",
+        "name:bn": "ভুবনেশ্বর",
+        "name:cs": "Bhuvanéšvar",
+        "name:en": "Bhubaneswar",
+        "name:hi": "भुवनेश्वर",
+        "name:ja": "ブバネーシュワル",
+        "name:kn": "ಭುವನೇಶ್ವರ",
+        "name:or": "ଭୁବନେଶ୍ୱର",
+        "name:ru": "Бхубанешвар",
+        "name:sr": "Бубанешвар",
+        "name:ta": "புவனேசுவர்",
+        "name:te": "భుబనేశ్వర్",
+        "name:uk": "Бхубанешвар",
+        "place": "city",
+        "place:cca": "b2",
+        "population": "100000",
+        "postal_code": "751001",
+        "wikidata": "Q171771",
+        "wikipedia": "en:Bhubaneswar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8393432,
+          20.2603328
+        ]
+      },
+      "id": "node/1051669585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1685767121",
+        "alt_name:ar": "جامو",
+        "capital": "4",
+        "is_capital": "state",
+        "is_in:continent": "Asia",
+        "name": "Jammu",
+        "name:ar": "جمو",
+        "name:cs": "Džammú",
+        "name:hi": "जम्मू",
+        "name:ja": "ジャンムー",
+        "name:kn": "ಜಮ್ಮು",
+        "name:pl": "Dżammu",
+        "name:ru": "Джамму",
+        "name:sr": "Џаму",
+        "name:ta": "ஜம்மு",
+        "place": "city",
+        "wikidata": "Q255455",
+        "wikipedia": "en:Jammu (city)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8580917,
+          32.7185614
+        ]
+      },
+      "id": "node/1685767121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2510123017",
+        "capital": "4",
+        "is_capital": "state",
+        "name": "Ranchi",
+        "name:bn": "রাঁচি",
+        "name:cs": "Ráňčí",
+        "name:en": "Ranchi",
+        "name:hi": "राँची",
+        "name:ja": "ラーンチー",
+        "name:kn": "ರಾಂಚಿ",
+        "name:or": "ରାଞ୍ଚି",
+        "name:ru": "Ранчи",
+        "name:ta": "ராஞ்சி",
+        "name:te": "రాంచీ",
+        "name:uk": "Ранчі",
+        "place": "city",
+        "population": "1074000",
+        "wikidata": "Q174461",
+        "wikipedia": "en:Ranchi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3250132,
+          23.3700354
+        ]
+      },
+      "id": "node/2510123017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3233393892",
+        "capital": "4",
+        "gns:dsg": "ADM2",
+        "gns:uni": "-2919695",
+        "is_capital": "state",
+        "name": "Chennai",
+        "name:cs": "Čennaí",
+        "name:de": "Chennai",
+        "name:en": "Chennai",
+        "name:fr": "Chennai",
+        "name:hi": "चेन्नई",
+        "name:ja": "チェンナイ",
+        "name:kn": "ಚೆನ್ನೈ",
+        "name:ko": "첸나이",
+        "name:lt": "Čenajus",
+        "name:ml": "ചെന്നൈ",
+        "name:pl": "Ćennaj",
+        "name:ru": "Ченнаи",
+        "name:ta": "சென்னை",
+        "name:te": "చెన్నై",
+        "name:uk": "Ченнаї",
+        "name:zh": "金奈",
+        "old_name": "Madras",
+        "place": "city",
+        "place:cca": "a1",
+        "population": "4681087",
+        "postal_code": "600001",
+        "source": "GNS;http://en.wikipedia.org/wiki/Chennai",
+        "wikidata": "Q1352",
+        "wikipedia": "en:Chennai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2838331,
+          13.0801721
+        ]
+      },
+      "id": "node/3233393892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3401391999",
+        "capital": "4",
+        "ele": "920",
+        "is_capital": "state",
+        "is_in:iso_3166_2": "IN-KA",
+        "name": "Bengaluru",
+        "name:as": "বাংগালোৰ",
+        "name:be": "বেঙ্গালূরু",
+        "name:cs": "Bengalúru",
+        "name:de": "Bangalore",
+        "name:el": "Μπανγκαλόρ",
+        "name:en": "Bengaluru",
+        "name:he": "בנגלור",
+        "name:hi": "बेंगालुरू",
+        "name:ja": "バンガロール",
+        "name:kn": "ಬೆಂಗಳೂರು",
+        "name:ko": "벵갈루루",
+        "name:ml": "ബെംഗളൂരു",
+        "name:ms": "Bangalore",
+        "name:my": "ဘန်ဂလိုမြို့",
+        "name:ru": "Бангалор",
+        "name:te": "బెంగళూరు",
+        "name:th": "บังคาลอร์",
+        "name:uk": "Бенгалуру",
+        "name:zh": "班加罗尔",
+        "old_name": "Bangalore",
+        "old_name_1": "Bangalore",
+        "place": "city",
+        "population": "10839725",
+        "postal_code": "560001",
+        "wikidata": "Q1355",
+        "wikipedia": "en:Bangalore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5912997,
+          12.9791198
+        ]
+      },
+      "id": "node/3401391999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3613137018",
+        "capital": "4",
+        "is_capital": "state",
+        "name": "Kohima",
+        "name:bn": "কোহিমা",
+        "name:cs": "Kóhíma",
+        "name:hi": "कोहिमा",
+        "name:kn": "ಕೋಹಿಮ",
+        "name:ta": "கோஹிமா",
+        "place": "town",
+        "population": "90000",
+        "postal_code": "797001",
+        "wikidata": "Q234056",
+        "wikipedia": "en:Kohima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1019156,
+          25.6618755
+        ]
+      },
+      "id": "node/3613137018"
+    }
+  ]
+}
