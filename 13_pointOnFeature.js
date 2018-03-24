@@ -1,4 +1,4 @@
-var turf = require('@turf/point-on-feature');
+var turf = require('@turf/turf');
 var fs = require('fs');
 var state = fs.readFileSync('./data/karnataka.geojson');
 state = JSON.parse(state);

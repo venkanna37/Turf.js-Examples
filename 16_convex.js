@@ -4,3 +4,4 @@ var aoi = fs.readFileSync('./data/aoi.geojson');
 aoi = JSON.parse(aoi);
 var convexOfAoi = turf.convex(aoi);
 fs.writeFileSync('./output/convex.geojson', JSON.stringify(convexOfAoi));
+console.log(convexOfAoi);

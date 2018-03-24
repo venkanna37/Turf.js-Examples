@@ -5,3 +5,4 @@ var cellSide = 10;
 //var options = {units: 'kelometers'};
 var hexagrid = turf.hexGrid(bbox, cellSide );
 fs.writeFileSync('./boston_hexaGrid.geojson', JSON.stringify(hexagrid));
+console.log(hexagrid);

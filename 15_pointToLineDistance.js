@@ -1,8 +1,6 @@
-var turf = require('turf');
+var turf = require('@turf/turf');
 var fs = require('fs');
-var line = fs.readFileSync('./data/line.geojson');
-var point = fs.readFileSync('./data/point1.geojson');
-line = JSON.parse(line);
-point = JSON.parse(point);
-var ptl = turf.pointToLineDistance(point,line);
-console.log(ptl);
+var pt = turf.point([0, 0]);
+var line = turf.lineString([[1, 1],[-1, 1]]);
+var distance = turf.pointToLineDistance(pt, line);
+console.log(distance);
