@@ -27,6 +27,7 @@ _Path to `--mbtiles` and either of `--geojson` or `--count` is required._
 --dates | comma separated UTC format start and end dates. If end date is not supplied, filters start date + 24 hours.
 --count | prints count of filtered features to stdout.
 --geojson | path to write geojson, overwrites existing file.
+--bbox | To get the data only in bbox area
 --help | print usage instructions.
 
 ### Examples
@@ -43,6 +44,12 @@ The filtered geojson has been written to highway_primary.geojson
 Features total: 89186
 The filtered geojson has been written to highway_primary.geojson
 ```
+* `osm-tag-stats --geojson=bbox_primary_highways.geojson --count --mbtiles='../latest.planet.mbtiles' --filter='filter/highway_primary.json' --users='Mapbox' --bbox=[77.4601025,12.8340125,77.7840515,13.1436649]`
+
+```
+The filtered geojson has been written to bbox_highway_primary.geojson, the formate of bbox is [WEST,SOUTH,EAST,NORTH] or [minX,minY,maxX,maxY], Coordinates these used in above example are bbox coordinates of Bangalore city
+```
+
 --------------------------------------------------------------
 
 ### Filters
