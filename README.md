@@ -96,6 +96,6 @@ node < file name > (Ex. node 01_along.js)
 
       * Takes a bounding box and the diameter of the cell and returns a FeatureCollection of flat-topped hexagons or triangles ( Polygon features) aligned in an "odd-q" vertical grid as described in Hexagonal Grids
   
-18. **pointTriangleSquareGridsmp**
+18. **pointTriangleSquareGrids**
 
       * These takes bounding box and cellSide, creates Point, Triangle, Square grids
