@@ -26,6 +26,7 @@ node < file name > (Ex. node 01_along.js)
 1. **along**
 
   It takes a `LineString` returns a `Point` at specified distance along a line
+  <img align="center" width="150" height="150" src="/images/along.png">
   
   
 2. **area**
