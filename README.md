@@ -1,8 +1,12 @@
-# TurfJS
+# Turf.js-Examples
 
-Turfjs is a open-source JavaScript library for spatial analysis. It include traditional spatial operations and a large family tasks like Measuring area and distance, and join points to polygon etc. Turf can be added to our websites as a client-side plugin or we can run Turf server-side with Node.js.
+The main objective of this repository is to understand and explaining each example of `Turf.js` this can be useful for me to get more familiarity with`Turf.js` and also I hope this can be useful to others to understand, how it is usefull and where we can apply for solving problems in spatial technology.
 
-Many industries using Turfjs for
+# Turf.js
+
+`Turf.js` is a open-source JavaScript library for spatial analysis. It can be added to any websites as a client-side plugin or we can run in server-side with the helf of `Node.js`. `Turf.js` includes traditional spatial operations like Measuring area, distance and join points to polygon etc. 
+
+## Many industries use Turfjs for
 
        - Finding nearest POIs like Restaurants, Coffee shops, Theaters etc.
        - Calculating distance and travel time
@@ -13,26 +17,26 @@ Many industries using Turfjs for
 
 For running these examples in Node.js, we need to clone this repository and install node modules from `package.json`.
 
-while running these examples data will take from data folder and output saves in output folder.
 ```
 git clone https://github.com/venkanna37/turfJS.git
 cd turfJS
 npm install
 node < file name > (Ex. node 01_along.js)
 ```
+when running these examples data will be taken from data folder and output saves in output folder. I used some randome points and `geojson` files as data for running examples.
 
 ## Examples
 
 1. **along**
 
-     * It takes a `LineString` returns a `Point` at specified distance along a line.
+     * It takes a `LineString` from geojson or array of coordinates and returns a `Point` (LatLong values) at specified distance along a line from starting point.
+
        
   <p align="center">
   <img width="400" height="200" src="/images/along.png">
   </p>
   
 2. **area**
-
      * It takes one or more features and calculates their area in square meters.
        
 3. **bbox**
