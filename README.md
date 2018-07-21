@@ -1,17 +1,17 @@
 # TurfJS
 
-Turfjs is a open-source JavaScript library for spatial analysis. it include traditional spatial operations and a large family tasks like Measuring area and distance, and join points to polygon etc. Turf can be added to our websites as a client-side plugin or we can run Turf server-side with Node.js.
+Turfjs is a open-source JavaScript library for spatial analysis. It include traditional spatial operations and a large family tasks like Measuring area and distance, and join points to polygon etc. Turf can be added to our websites as a client-side plugin or we can run Turf server-side with Node.js.
 
 Many industries using Turfjs for
 
        - Finding nearest POIs like Restaurants, Coffee shops, Theaters etc.
        - Calculating distance and travel time
-       - Buffer Analysis
+       - Buffer Analysis etc
        
        
-## Running Examples on Node.js
+## Running Examples in Node.js
 
-For running these examples on Node.js we need to clone this repository and install node modules `from package.json`.
+For running these examples in Node.js, we need to clone this repository and install node modules from `package.json`.
 
 while running these examples data will take from data folder and output saves in output folder.
 ```
